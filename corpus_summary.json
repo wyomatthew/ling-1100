@@ -1,0 +1,65 @@
+[
+    {
+        "title": "A Bullet for Cinderella",
+        "author": "John D. MacDonald",
+        "year": 1955,
+        "genre": "mystery",
+        "path": "corpus/a_bullet_for_cinderella.txt",
+        "source": "https://www.gutenberg.org/ebooks/49931"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "genre": "dystopian",
+        "path": "corpus/fahrenheit_451.txt",
+        "source": "https://github.com/timguoqk/cloze/blob/master/books/Fahrenheit%20451%20-%20Ray%20Bradbury.txt"
+    },
+    {
+        "title": "House on Mango Street",
+        "author": "Sandra Cisneros",
+        "year": 1984,
+        "genre": "novel",
+        "path": "corpus/house_on_mango_street",
+        "source": "https://github.com/timguoqk/cloze/blob/master/books/House%20on%20Mango%20Street%2C%20The%20-%20Sandra%20Cisneros.txt"
+    },
+    {
+        "title": "Why Don't Students Like School",
+        "author": "Daniel T. Willingham",
+        "year": 2009,
+        "genre": "nonfiction",
+        "path": "corpus/students_dont_like_school.txt",
+        "source": "https://github.com/timguoqk/cloze/blob/master/books/Why%20Don't%20Students%20Like%20School%20-%20Daniel%20T.%20Willingham.txt"
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "year": 1954,
+        "genre": "allegorical fiction",
+        "path": "corpus/lord_of_the_flies.txt",
+        "source": "https://github.com/timguoqk/cloze/blob/master/books/Lord%20of%20the%20Flies%20-%20William%20Golding.txt"
+    },
+    {
+        "title": "A Wind in the Door",
+        "author": "Madeleine L'Engle",
+        "year": 1973,
+        "genre": "science fiction",
+        "path": "corpus/a_wind_in_the_door.txt",
+        "source": "https://github.com/timguoqk/cloze/blob/master/books/Wind%20in%20the%20Door%2C%20A%20-%20Madeleine%20L'Engle.txt"
+    },
+    {
+        "title": "The Outsiders",
+        "author": "S. E. Hinton",
+        "year": 1967,
+        "genre": "drama",
+        "path": "corpus/the_outsiders.txt",
+        "source": "https://github.com/timguoqk/cloze/blob/master/books/The%20Outsiders%20-%20S.%20E.%20Hinton.txt"
+    },
+    {
+        "title": "Dead End in Norvelt",
+        "author": "Jack Gantos",
+        "year": 2011,
+        "genre": "comedy",
+        "path": "corpus/dead_end_in_norvelt.txt"
+    }
+]
