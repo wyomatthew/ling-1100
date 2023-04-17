@@ -60,6 +60,7 @@
         "author": "Jack Gantos",
         "year": 2011,
         "genre": "comedy",
-        "path": "corpus/dead_end_in_norvelt.txt"
+        "path": "corpus/dead_end_in_norvelt.txt",
+        "source": "https://github.com/timguoqk/cloze/blob/master/books/Dead%20End%20in%20Norvelt%20-%20Jack%20Gantos.txt"
     }
 ]
