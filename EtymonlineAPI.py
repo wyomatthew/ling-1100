@@ -65,6 +65,7 @@ def find_language(words: list[str]) -> Optional[str]:
     
     return None
 
+@lru_cache(maxsize=None)
 def lookup_origin(word: str) -> Optional[tuple[str, str]]:
     etymons: list[tuple[str, str]] = list()
     try:
