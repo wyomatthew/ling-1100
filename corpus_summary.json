@@ -20,14 +20,14 @@
         "author": "Sandra Cisneros",
         "year": 1984,
         "genre": "novel",
-        "path": "corpus/house_on_mango_street",
+        "path": "corpus/house_on_mango_street.txt",
         "source": "https://github.com/timguoqk/cloze/blob/master/books/House%20on%20Mango%20Street%2C%20The%20-%20Sandra%20Cisneros.txt"
     },
     {
         "title": "Why Don't Students Like School",
         "author": "Daniel T. Willingham",
         "year": 2009,
-        "genre": "nonfiction",
+        "genre": "academic nonfiction",
         "path": "corpus/students_dont_like_school.txt",
         "source": "https://github.com/timguoqk/cloze/blob/master/books/Why%20Don't%20Students%20Like%20School%20-%20Daniel%20T.%20Willingham.txt"
     },
