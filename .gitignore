@@ -1,3 +1,5 @@
 corpus/
 *.zip
 *.ipynb
+__pycache__
+.vscode
