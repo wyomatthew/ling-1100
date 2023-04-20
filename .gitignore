@@ -3,3 +3,5 @@ corpus/
 *.ipynb
 __pycache__
 .vscode
+*.json
+!corpus_summary.json
