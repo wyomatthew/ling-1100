@@ -11,7 +11,7 @@ from nltk.tokenize import word_tokenize
 from nltk.metrics import edit_distance
 
 BASE_URL = "https://www.etymonline.com"
-hot_list = ["french", "latin", "german", "english"]
+hot_list = ["french", "latin", "german", "english", "greek"]
 
 def make_request(url: str, params: dict = None, headers: dict = None) -> r.Response:
     """Makes a request.
