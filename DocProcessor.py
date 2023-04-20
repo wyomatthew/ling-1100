@@ -13,7 +13,12 @@ class DocProcessor(object):
         with open(self.path, 'r') as fp:
             return fp.read().encode().decode("ascii", errors="ignore")
         
-    def tokenize(self, lower: bool = False, rm_punct: bool = False, rm_stop_words: bool = False, rm_numbers: bool = False, stem: bool = False) -> list[str]:
+    def tokenize(self,
+            lower: bool = False,
+            rm_punct: bool = False,
+            rm_stop_words: bool = False,
+            rm_numbers: bool = False,
+            stem: bool = False) -> list[str]:
         toks = word_tokenize(self.read())
 
         if rm_numbers:
